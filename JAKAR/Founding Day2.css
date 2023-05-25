@@ -1,0 +1,98 @@
+/* muneera khalid 443925376*/
+body {
+
+	background-color:#D0E4DD;
+}
+h1 { 
+  text-align: center;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(sd5.png) 30% round;
+
+  letter-spacing: -2px;
+ }
+
+p.p1{
+  text-align: center;
+  word-spacing: 40px;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(sd5.png) 20% round;
+}
+p.p2{
+	text-align: center;
+	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(sd5.png) 20% round;
+}
+
+td.m{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+
+  }
+  td.mm{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.s{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+td.ss{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+td.a{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.aa{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+td.e{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.ee{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.f{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.ff{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.b{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.bb{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.n{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.nn{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.k{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.kk{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.c{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.cc{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.w{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.ww{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.g{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+  td.gg{    text-decoration: underline;
+	text-shadow: 0 0 3px black;
+  }
+iframe.gm {
+	align-items: center;
+}

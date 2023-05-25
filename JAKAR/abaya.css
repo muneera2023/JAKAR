@@ -1,0 +1,114 @@
+body{
+  background-color: #D9E4DD;
+}
+.hero-image {
+  background-image: url("images/logo.jpeg");
+  background-color: #cccccc;
+  height: 550px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position: relative;
+}
+
+.hero-text {
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #264d00;
+  
+  text-align: left;
+  position:absolute;
+  top: 10%;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.hero-text h1{
+  font-size: 30px;
+  color:#264d00;  
+  font-style: normal;
+  word-spacing: .1;
+  
+}
+
+h1.heading{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  border-radius: 3px;
+  width: 500px;
+  color: #264d00;
+
+  text-align:center ;
+  font-size: 35px;
+  font-weight: bold;
+}
+.leeo
+{
+  color: #264d00;
+}
+p {
+  font-style:italic;
+  font-size: 20px; 
+  text-align: center;
+  padding: 1px;
+
+}
+video{
+  background-color:#D9E4DD ;
+  width: 100%;
+  height: 400px;
+
+}
+img {
+
+  border-radius: 10px;
+   background-color: white; 
+   padding:5px; 
+   border: 1px solid lightgray; 
+   margin: 3px; 
+   margin-left:10px;
+   width: 385px;
+   height: 320px; 
+ 
+  }
+
+  .div_image {
+    display: flex; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+  }
+  
+  .div_image div {
+    flex-basis: calc(32.33% - 10px); 
+    margin-bottom: 20px; 
+    border: 1px solid #ddd; 
+    padding: 10px; 
+    text-align: center; 
+  }
+  
+  .div_image img {
+    max-width: 100%; 
+  }
+  
+  .div_image h5 {
+    margin: 10px 0 5px; 
+  }
+  
+  .div_image span {
+    font-weight: bold; 
+  }
+  
+  #instgram 
+  {
+    
+    margin-top: 50px;
+    text-align: center;
+    font-size:30px ;
+
+  }
+  a{
+    color: #264d00;
+    text-align: center;
+  }
